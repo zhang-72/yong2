@@ -274,8 +274,6 @@ CDN优选域名：yg1.ygkkk.dpdns.org (yg1中的1，可换为1-11中任意数字
 
 [ClouDNS永久免费域名最终教程：CF pages vless自定义域名直接部署](https://youtu.be/PN0BLANXh4I)
 
-小白优选IP应用推荐：[CF优选IP解放小白最终方案：一键自动生成美国、香港、欧洲三区优选官方IP，电脑WIN、安卓android、苹果ios多平台一键通用](https://youtu.be/6kKIzObEZ2c)
-
 [CF vless/trojan免费节点混淆时代来临：workers/pages代码混淆后详细设置的更新说明；1101报错总结](https://youtu.be/QSFaP5EVI04)
 
 
@@ -294,20 +292,10 @@ CDN优选域名：yg1.ygkkk.dpdns.org (yg1中的1，可换为1-11中任意数字
 首次安装后，请先安装依赖：```apk add curl bash```，然后运行以下你要使用的脚本
 
 -------------------------------------------------------------
-### 脚本1：CF-优选官方IP (默认美、亚、欧三地区 强烈推荐！！！)，安卓苹果手机平板专用：
-```
-curl -sSL https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/cf/cf.sh -o cf.sh && chmod +x cf.sh && bash cf.sh
-```
--------------------------------------------------------------
 
-### 脚本2：CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用：
+### 脚本：CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用：
 ```
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
-```
-------------------------------------------------------------------------
-### 脚本3：CF-优选官方IP脚本（带测速），苹果安卓手机平板专用：
-```
-curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
 ```
 -------------------------------------------------------------
 
